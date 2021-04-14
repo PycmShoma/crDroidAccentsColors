@@ -7,5 +7,6 @@
 - Messaging app (w)
 - Dialer app (w)
 - DeskClock app (w)
+- MatLog app (w)
 - Contacts app (wip)
 - DocumentsUI app (wip)
