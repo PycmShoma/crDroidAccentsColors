@@ -8,5 +8,6 @@
 - Dialer app (w)
 - DeskClock app (w)
 - MatLog app (w)
+- OPScreenRecorder app (w)
 - Contacts app (wip)
 - DocumentsUI app (wip)
