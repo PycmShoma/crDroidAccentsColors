@@ -3,11 +3,11 @@
 
 ## Description
 - Changes the theme in some system applications to the accent color of the selected style on Main Settings
-- Gestural Navbar (w)
-- Messaging app (w)
-- Dialer app (w)
-- DeskClock app (w)
-- MatLog app (w)
-- Contacts app (w)
-- OPScreenRecorder app (wip)
-- DocumentsUI app (wip)
+- Gestural Navbar
+- Messaging app
+- Dialer app
+- DeskClock app
+- MatLog app
+- Contacts app
+- OPScreenRecorder app
+
