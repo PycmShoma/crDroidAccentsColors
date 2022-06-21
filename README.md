@@ -1,4 +1,4 @@
-![](https://github.com/PycmShoma/crDroidAndroidPatches/blob/main/assets/not_relevant.jpg)
+![](https://github.com/PycmShoma/crDroidAndroidPatches/blob/main/assets/not_relevant.png)
 
 # crDroidAccentThemeColors
 - Magisk module for crDroid
